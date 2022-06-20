@@ -1,4 +1,4 @@
-# Leaflet Storymaps with Google Sheets
+# SocioAtlas - Módulo georreferencial: histórias
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
@@ -7,8 +7,8 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/edit#gid=0
+- Leaflet Map https://www.socioatlas.xyz/story/
+- Google Sheets template https://docs.google.com/spreadsheets/d/1Wmiy4oUVblxG4_6TcrDHPPPI2j43A8TULet2eI7WSf0/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
